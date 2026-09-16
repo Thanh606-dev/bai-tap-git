@@ -1,0 +1,2 @@
+Ghi chu thuc hanh Git
+Da hoan thanh bai tap Git co ban

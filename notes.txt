@@ -1,0 +1,4 @@
+Ghi chú học Git:
+- git add: chọn thay đổi
+- git commit: tạo phiên bản
+- git log: xem lịch sử

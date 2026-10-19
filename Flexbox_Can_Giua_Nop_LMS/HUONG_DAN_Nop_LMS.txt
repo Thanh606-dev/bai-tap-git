@@ -1,0 +1,9 @@
+BÀI THỰC HÀNH CĂN GIỮA BẰNG FLEXBOX
+
+1. Giải nén ZIP.
+2. Mở flex-center.html để kiểm tra giao diện.
+3. Vào GitHub repository cá nhân, chọn Add file > Upload files.
+4. Upload đồng thời flex-center.html và style.css (để cùng cấp trong repository), sau đó Commit changes.
+5. Mở file flex-center.html trên GitHub, sao chép đường dẫn để nộp nếu LMS nhận link mã nguồn.
+
+Lưu ý: Link file trên GitHub là link mã nguồn, không phải website chạy trực tiếp. Nếu cần website hoạt động, phải triển khai lên GitHub Pages hoặc dịch vụ hosting khác. Chưa có thao tác nào được thực hiện trên GitHub của bạn.

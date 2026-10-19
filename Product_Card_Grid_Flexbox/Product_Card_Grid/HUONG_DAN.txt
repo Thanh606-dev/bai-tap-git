@@ -1,0 +1,10 @@
+BÀI THỰC HÀNH: DANH SÁCH THẺ SẢN PHẨM FLEXBOX
+
+1. Giải nén ZIP, mở index.html để xem sản phẩm tự động xuống dòng.
+2. Vào GitHub repository bai-tap-git, chọn nhánh master.
+3. Chọn Add file > Upload files và kéo cả thư mục Product_Card_Grid vào (hoặc tải lên các tệp giữ cùng thư mục).
+4. Commit message: Add responsive product card grid.
+5. Mở thư mục Product_Card_Grid > index.html và sao chép URL để nộp vào ô Link của LMS.
+
+Lưu ý: URL github.com/.../blob/... là link mã nguồn, không phải website chạy trực tiếp.
+Nếu cần trang web chạy thật, cần bật GitHub Pages hoặc dùng nền tảng triển khai web.
